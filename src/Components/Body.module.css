@@ -1,0 +1,33 @@
+.container{
+    width: 98.93vw;
+    height: 115vh;
+    background-color: #f8f7f7;
+    margin-top: 2px; 
+}
+.main{
+    width: 70rem;
+    align-items: center;
+    margin: auto;
+}
+.subheading{
+    padding: 15px 0px;
+    display: flex;
+}
+.dropdown{
+    padding: 0px 25px;
+    background-color: rgb(216, 214, 214);
+    border: none;
+    margin-right: 15px;
+}
+.lists{
+    display: flex;
+    list-style: none;
+}
+.lists li{
+    margin-right: 25px;
+    color: gray;
+}
+.lists li:hover{
+    color: black;
+    cursor: pointer;
+}

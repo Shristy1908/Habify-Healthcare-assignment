@@ -1,0 +1,36 @@
+.container{
+    width: 70rem;
+        align-items: center;
+        margin: auto;
+}
+.footer{
+    display: flex;
+}
+.footer img{
+    width: 1rem 2rem;
+}
+.footer ul{
+    display: flex;
+    list-style: none;
+}
+.footer ul li{
+    margin-right: 25px;
+    color: gray;
+}
+.subfooter ul{
+    list-style: none;
+    display: flex;
+}
+.subfooter ul li{
+    margin-right: 10px;
+}
+.subfooter{
+    display: flex;
+    color: gray;
+    justify-content: space-between;
+    margin-left: 5rem;
+}
+.subfooter .icons{
+    justify-content: space-between;
+    margin-top: 1rem;
+}
